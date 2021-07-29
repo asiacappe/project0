@@ -21,6 +21,5 @@
       			<input type="submit" class="s-btn" value="Google Search">
       			<input type="submit" class="s-btn" value="I'm Feeling Lucky">
       		</div>
-      </footer>
     </body>
 </html>

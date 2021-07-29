@@ -11,7 +11,7 @@
       	 <button>Sign in</button>
         </nav>
       <section class="section-1">
-      	<img src="img/logo.png" class="logo">
+      	<img src="img/Google.png" class="logo">
       	<form><br><br>
       		<div class="s-box">
       			<img src="img/search.svg" class="search-icon">
